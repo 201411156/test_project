@@ -2,7 +2,7 @@ git init 초기화 돼서 .git 디렉토리가 생성
 git add 통해서 필요한 파일을 git 관리에 등록 -> 불필요한 파일은 미등록( .gitignore)
 여기에도 구현했다고 치자.
     1. 파일 등록 (git add ~.js)
-    2. 수정 된 상태  (modified status)
+    2. 수정 된 상태  (modified status)   여기다가 다른 내용을 타이핑 하면 conflict 남.
 여기에다ㅏㄱ
 함수를
 ㄱ길게
